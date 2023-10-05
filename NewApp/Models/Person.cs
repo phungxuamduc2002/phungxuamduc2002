@@ -12,4 +12,4 @@
             Console.WriteLine("{0} - can cuoc so: {1} ", FullName , PersonID);
         }
     }
-}
+ 
